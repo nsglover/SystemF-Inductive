@@ -1,0 +1,4 @@
+*.agdai
+.DS_Store
+
+Demos.agda
